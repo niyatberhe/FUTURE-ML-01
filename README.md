@@ -8,7 +8,7 @@ Repository: FUTURE_ML_01
 This project builds a predictive machine learning pipeline utilizing historical retail data to forecast future demand and sales trends. It establishes a baseline regression workflow that ingests raw transaction data, extracts time-series elements, and maps visual forecasts against actual records.
 
 ### 📊 Dataset Source
-* Dataset Used: Sample - [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Standard Kaggle Retail Data)
+* Dataset Used: [Sample - Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Standard Kaggle Retail Data)
 * Storage Note: The raw CSV file (`Sample-Superstore.csv`) is included in the local environment for execution but has been omitted from this repository via .gitignore to optimize repository size.
 * Replication: To run this pipeline locally, download the Superstore sales dataset, rename it to Sample-Superstore.csv, and place it directly into the root directory of this project.
 
